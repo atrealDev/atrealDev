@@ -7,7 +7,7 @@ Front End Web Developer
 Started learing how to Code/Desing stuff just for curiosity after that it became a part of my career , best thing that ever happend to me , cant wait for the futur ahead .
 
 * 🌍  I'm based in Algeria
-* ✉️  You can contact me at [wadoudamine2@gmail.com](mailto:wadoudamine2@gmail.com)
+* ✉️  You can contact me at : [atrealdev@gmail.com](mailto:atrealdev@gmail.com)
 * 🧠  I'm learning Js and React
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am hungry for success
