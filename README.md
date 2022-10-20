@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amine Samar a Front End Web Developer 💻--------------------------👋 Hi, I’m @atrealDev 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amine Samar a Front End Web Developer 
 👀  I’m interested in front end developing 🌱 I’m currently learning Js and react 
 📫  You can reach out to me on discord : " SamDev#6990 "* 
 🌍  I'm based in Algeria* 
