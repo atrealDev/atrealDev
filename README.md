@@ -1,7 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amine Samar===================================================================================================================================Front End Web Developer-----------------------Started learing how to Code/Desing stuff just for curiosity after that it became a part of my career , best thing that ever happend to me , cant wait for the futur ahead .* 🌍  I'm based in Algeria* ✉️  You can contact me at [ㅤㅤㅤㅤㅤㅤㅤatrealdev@gmail.comㅤㅤ](mailto:ㅤㅤㅤㅤㅤㅤㅤatrealdev@gmail.comㅤㅤ)* 🧠  I'm learning Js and React* 🤝  I'm open to collaborating on Projects* ⚡  I am hungry for success
-
-<a href="https://www.github.com/atrealDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/atrealDev?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
+Hi 👋 My name is Amine Samar
+============================Front End Web Developer-----------------------Started learing how to Code/Desing stuff just for curiosity after that it became a part of my career , best thing that ever happend to me , cant wait for the futur ahead .* 🌍  I'm based in Algeria* ✉️  You can contact me at [ㅤㅤㅤㅤㅤㅤㅤatrealdev@gmail.comㅤㅤ](mailto:ㅤㅤㅤㅤㅤㅤㅤatrealdev@gmail.comㅤㅤ)* 🧠  I'm learning Js and React* 🤝  I'm open to collaborating on Projects* ⚡  I am hungry for success
 
 ### Skills
 
@@ -15,9 +13,7 @@ src="https://img.shields.io/github/followers/atrealDev?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/atrealDev"><img src="https://github-readme-stats.vercel.app/api?username=atrealDev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="atrealDev's GitHub stats" /></a>
-
-<a href="http://www.github.com/atrealDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atrealDev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/atrealDev"><img src="https://github-readme-stats.vercel.app/api?username=atrealDev&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="atrealDev's GitHub stats" /></a>
 
 <a href="http://www.github.com/atrealDev"><img src="https://activity-graph.herokuapp.com/graph?username=atrealDev&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
