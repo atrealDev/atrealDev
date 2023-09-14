@@ -8,7 +8,7 @@ Started learing how to Code/Desing stuff just for curiosity after that it became
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at : [atrealdev@gmail.com](mailto:atrealdev@gmail.com)
-* 🧠  I'm learning Js and React
+* 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am hungry for success
 
